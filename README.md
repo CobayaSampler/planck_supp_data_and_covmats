@@ -2,7 +2,7 @@
 
 This repo contains:
 
-- A plain text version of the official Planck lensing data.
+- A plain text version of the official Planck lensing data, from Antony Lewis' CosmoMC (https://github.com/cmbant/CosmoMC).
 
 - Covariance matrices from the official Planck parameter grids.
 
