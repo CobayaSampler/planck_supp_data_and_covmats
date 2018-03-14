@@ -1,2 +1,11 @@
-# planck_supp_data_and_covmats
-Supplementary data and covmats for Planck
+# Planck supplementary data and covariance matrices
+
+This repo contains:
+
+- A plain text version of official Planck lensing data.
+
+- Covariance matrices from the official Planck parameter grids.
+
+---
+
+Based on observations obtained with Planck (http://www.esa.int/Planck), an ESA science mission with instruments and contributions directly funded by ESA Member States, NASA, and Canada.
