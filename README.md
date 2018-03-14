@@ -2,7 +2,7 @@
 
 This repo contains:
 
-- A plain text version of official Planck lensing data.
+- A plain text version of the official Planck lensing data.
 
 - Covariance matrices from the official Planck parameter grids.
 
