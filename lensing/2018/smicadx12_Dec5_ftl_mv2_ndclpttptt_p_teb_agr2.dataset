@@ -2,9 +2,9 @@ like_approx = gaussian
 fields_use = P
 fields_required =  T P
 binned = T
-nbins= 14 
-use_min= 1 
-use_max= 14 
+nbins= 14
+use_min= 1
+use_max= 14
 cl_lmin = 2
 cl_lmax = 2500
 

@@ -2,9 +2,9 @@ like_approx = gaussian
 fields_use = P
 fields_required =  T E P
 binned = T
-nbins= 9 
-use_min= 1 
-use_max= 9 
+nbins= 9
+use_min= 1
+use_max= 9
 cl_lmin = 2
 cl_lmax = 2500
 
@@ -23,4 +23,3 @@ linear_correction_bin_window_in_order = TT EE TE PP
 linear_correction_bin_window_out_order =  PP PP PP PP
 
 calibration_param = planck_calib.paramnames
-            
