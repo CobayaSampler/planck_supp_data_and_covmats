@@ -22,5 +22,5 @@ linear_correction_bin_window_files = smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext
 linear_correction_bin_window_in_order = TT EE TE PP
 linear_correction_bin_window_out_order =  PP PP PP PP
 
-calibration_param = ../planck_calib.paramnames
+calibration_param = planck_calib.paramnames
             
